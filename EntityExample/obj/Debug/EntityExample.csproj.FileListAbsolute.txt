@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.Form1.resources
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.Properties.Resources.resources
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.CopyComplete
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.exe
+C:\Users\Asus\Desktop\Taylan\Yazılım\Murat_Yucedag\Linq\EntityExample\EntityExample\obj\Debug\EntityExample.pdb
